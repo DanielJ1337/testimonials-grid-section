@@ -1,6 +1,6 @@
 body {
     font-family: "Barlow Semi Condensed", sans-serif;
-    background-color: hsl(0, 0%, 81%);
+    background-color: hsl(210, 46%, 95%);
     height: 100vh;
     display: flex;
     align-items: center;
@@ -65,7 +65,7 @@ body {
 .two {
     background-color: hsl(217, 19%, 35%);
     color: #fff;
-    grid-column: 3 / 4;
+    grid-column: 3 / 4;s
 }
 
 .three {
